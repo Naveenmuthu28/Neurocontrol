@@ -67,6 +67,7 @@ Neurocontrol/
 ├── main.py                             # Main GUI + ML application
 ├── requirements.txt                    # Python dependencies
 └── README.md                           # Project documentation
+└── LICENSE                             # Project license
 ```
 ---
 
