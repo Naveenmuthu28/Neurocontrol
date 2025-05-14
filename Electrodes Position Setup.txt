@@ -1,0 +1,5 @@
+Positive Electrode (+) → Fp2 (Right Forehead)
+
+Negative Electrode (-) → Left Mastoid (Behind Left Ear)
+
+Reference Electrode (REF) → Right Mastoid (Behind Right Ear)

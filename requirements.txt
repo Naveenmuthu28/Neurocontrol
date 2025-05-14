@@ -1,0 +1,9 @@
+numpy
+scipy
+pandas
+pyserial
+scikit-learn
+tqdm
+matplotlib
+pyside6
+pyinstaller
